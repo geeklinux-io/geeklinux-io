@@ -1,6 +1,7 @@
 ### Hey 👋🏽, I'm [geeklinux-io!](https://github.com/geeklinux-io) 
 
-Hi, I'm geeklinux-io, a golang/phper/js Developer 🚀 from China, currently, I'm a development engineer.
+Hi, I am GeekLinux io, an amateur developer of Golang/PHP/JS 🚀  I am from China and currently an SRE
+engineer.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
